@@ -1,1 +1,1 @@
-banner.png
+Offical Media Assets
